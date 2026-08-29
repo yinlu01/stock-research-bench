@@ -1,0 +1,11 @@
+.env
+holdings.toml
+reports/
+data/
+spark-output/
+output/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.log
